@@ -1,4 +1,14 @@
+.best {
+  color: violet;
+  font-size: 60px;
+  font-family: monospace;
+}
+
 .flashy {
   color: red;
   font-style: italic;
+}
+
+.bg {
+  background-color: pink;
 }
